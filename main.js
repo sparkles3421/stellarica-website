@@ -1,12 +1,3 @@
-/*
-
-SCRIPT GETS SERVER DATA
-
-ask me(sparkles3421) if you want to know about something
-
---------I reccomend you dont edit this.--------
-
-*/
 var list;
 var il = false;
 var getJSON = function (url, callback) {
