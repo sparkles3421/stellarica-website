@@ -1,2 +1,0 @@
-# stellarica-website
-yes.
