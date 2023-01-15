@@ -1,7 +1,7 @@
 {"ver":500,"IP":"play.stellarica.net","we":"https://stellarica.net/","scr":[
   "function data(){",
-  "console.log('Hello World')",
+  "",
   "}",
   "data()"
-],"scrAmt":5
+],"scrAmt":0
 }
